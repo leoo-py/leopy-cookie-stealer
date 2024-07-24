@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoo-py&label=Profile%20views&color=0e75b6&style=flat" alt="leoo-py" /> </p>
 
-<p align="left"> <a href="https://github.com/leoo-py" target="blank"><img src="https://img.shields.io/github/follow/leoo-py?logo=github&style=for-the-badge" alt="leoo-py" /></a> </p>
+<p align="left"> <a href="https://github.com/leoo-py" target="blank"><img src="https://img.shields.io/twitter/follow/leoo-py?logo=twiter&style=for-the-badge" alt="leoo-py" /></a> </p>
 
 * This is a Discord bot that generates Roblox cookie logger for you, tho it's not .EXE, you can turn it into .EXE by using the provided auto Py2Exe batch provided with main script.
 - Here is how it works:
